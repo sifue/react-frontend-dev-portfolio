@@ -1,17 +1,32 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "sifue - Soichiro Yoshimura",
+      "titles": [ "Educational Programmer", "Front-end Developer", "Back-end Developer", "Dev Team lead" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/sifue",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "twitter",
+          "url": "https://twitter.com/sifue",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/yoshimura.soichiro",
+          "class": "fab fa-facebook"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/user/sifue",
+          "class": "fab fa-youtube"
+        },
+        {
+          "name": "twitch",
+          "url": "https://www.twitch.tv/sifue4466",
+          "class": "fab fa-twitch"
         }
       ],
       "image": "myProfile.jpg"
