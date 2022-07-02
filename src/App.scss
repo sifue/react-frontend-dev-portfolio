@@ -151,16 +151,6 @@ header h1 {
 	top: 15px;
 }
 
-.foto div:hover {
-	-webkit-transform: scale(1.01);
-	-moz-transform: scale(1.01);
-	transform: scale(1.01);
-	z-index: 10;
-	-webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
-	-moz-box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
-	box-shadow: 0 10px 20px rgba(0, 0, 0, .7);
-}
-
 .project-title-settings {
 	margin-top: 5%;
 	font: 18px/24px 'opensans-bold', sans-serif;

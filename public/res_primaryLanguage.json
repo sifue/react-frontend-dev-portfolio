@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "S高等学校 校長。N高等学校・S高等学校でプログラミング講師を務める教育従事プログラマー。",
+      "description": "1982年広島県呉市生れ。ハンドルネームはsifue(しふー)。SIerで開発リーダーを行ったり、ニコニコ生放送の開発リーダーを行ってきたが、ふとしたきっかけで高校でプログラミングを教えることになる。得意なことは、サーバーサイドやクライアントサイドにおける並行処理実装、RDBのデータモデリングとその運用、TypeScript/JavaScript/Javaを用いたアプリケーション開発。やりたいことは、多くの人に喜ばれるソフトウェア作り。いかに楽しく開発するか、ということを自分の大切な価値にしている。競技系ネットゲーム(eスポーツ)が趣味で、LoL、EchoVR、Valorant、クラロワ、フォートナイトなどを日ごろからプレイしている。",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,71 +11,42 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+        "title": "著作",
+        "time_col": "年月",
+        "title_col": "出版元",
+        "detaillink_col": "タイトル",
+        "content": [
+          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046052228/"],
+          ["2018/06", "KADOKAWA", "「Webプログラミングが面白いほどわかる本」 環境構築からWebサービスの作成まで、はじめからていねいに", "https://www.amazon.co.jp/dp/4046023023/"],
+          ["2017/04", "KADOKAWA", "「高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046019557/"],
+          ["2015/09", "Lightbend", "How Dwango Scaled Live Streaming With Play And Akka", "https://www.lightbend.com/case-studies/how-dwango-scaled-live-streaming-with-play-and-akka"],
+          ["2014/08", "技術評論社", "WEB+DB PRESS Vol.82「オブジェクト指向アプローチに依る変更に強いテーブル設計」", "https://www.amazon.co.jp/dp/4774166278/"],
+          ["2014/08", "技術評論社", "WEB+DB PRESS Vol.81「オブジェクト指向プログラミングを利用したDAO設計パターン」", "https://www.amazon.co.jp/dp/4774165069/"]
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
+        "title": "発表",
+        "time_col": "年月",
+        "title_col": "イベント名",
+        "detaillink_col": "発表タイトル",
+        "content": [
+          ["2022/04", "教育総合. オンライン展示会 vol.3", "N高等学校・S高等学校で4000名以上の生徒に行われたVR教育の実践", "https://online-event.dmm.com/main/page/education2204/venue/schedule_detail.php?uid=624a8fc0940c5"],
+          ["2014/10", "Akamai Digital Media Conference 2014", "2013年末カウントダウン番組におけるAkamai活用事例", "https://www.slideshare.net/sifue/2013akamai"],
+          ["2014/02", "Developers Summit 2014", "Play2/Scalaでドメイン駆動設計を利用した大規模Webアプリケーションのスクラム開発の勘所", "https://www.slideshare.net/sifue/developers-summit-2014-play2scalaweb"]
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
+        "title": "インタビュー",
+        "time_col": "年月",
+        "title_col": "媒体名",
+        "detaillink_col": "タイトル",
+        "content": [
+          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046052228/"],
+          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046052228/"],
+          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046052228/"],
+          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046052228/"],
+          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046052228/"],
+          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046052228/"]
         ]
       }
     ],
