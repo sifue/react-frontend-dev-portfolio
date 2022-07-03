@@ -127,6 +127,7 @@ header h1 {
 }
 
 .foto div {
+	width: 90%;
 	background: #ffffff;
 	display: inline-block;
 	margin: 0 auto 5% auto;
@@ -151,14 +152,6 @@ header h1 {
 	top: 15px;
 }
 
-.project-title-settings {
-	margin-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
-	text-transform: uppercase;
-	letter-spacing: 3px;
-	color: black;
-	text-align: center;
-}
 
 .united-states img {
 	display: block;
@@ -385,8 +378,8 @@ header h1 {
 }
 
 .projects-title {
-	padding-top: 2%;
-	padding-bottom: 2%;
+	padding-top: 2.5%;
+	padding-bottom: 0.5%;
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -395,17 +388,18 @@ header h1 {
 }
 
 .projects-table {
-	margin-top: 2%;
+	margin-top: 1%;
 	margin-left: 5%;
 	margin-right: 5%;
-	margin-bottom: 5%;
+	margin-bottom: 4%;
 	font: 12px/18px 'opensans-bold', sans-serif;
-	text-transform: uppercase;
+	text-transform: none;
 	letter-spacing: 3px;
 	text-align: left;
 }
 
 .projects-table-header {
+	line-height: 4em;
 	text-align: center;
 }
 

@@ -34,49 +34,79 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
-          "level": "90"
+          "level": "80"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "80"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
+          "name": "Scala",
+          "class": "devicon-scala-plain",
+          "level": "80"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "80"
+        },
+        {
+          "name": "Ruby",
+          "class": "devicon-ruby-plain",
+          "level": "80"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "80"
+        },
+        {
+          "name": "React.js",
+          "class": "devicon-react-original",
+          "level": "80"
+        },
+        {
+          "name": "Oracle",
+          "class": "devicon-oracle-original",
+          "level": "80"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
         },
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "Vim",
+          "class": "devicon-vim-plain",
+          "level": "80"
+        },
+        {
+          "name": "VSCode",
+          "class": "devicon-vscode-plain",
+          "level": "80"
+        },
+        {
+          "name": "IntelliJ",
+          "class": "devicon-intellij-plain",
+          "level": "80"
+        },
+        {
+          "name": "blender",
+          "class": "devicon-blender-original",
+          "level": "80"
+        },
+        {
+          "name": "Unity",
+          "class": "devicon-unity-original",
+          "level": "80"
         }
       ]
     }
