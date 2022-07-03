@@ -12,9 +12,6 @@
     "projects": [
       {
         "title": "著作",
-        "time_col": "年月",
-        "title_col": "出版元",
-        "detaillink_col": "タイトル",
         "content": [
           ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.kadokawa.co.jp/product/322101000833/"],
           ["2018/06", "KADOKAWA", "「Webプログラミングが面白いほどわかる本」 環境構築からWebサービスの作成まで、はじめからていねいに", "https://www.kadokawa.co.jp/product/321712000860/"],
@@ -26,9 +23,6 @@
       },
       {
         "title": "発表",
-        "time_col": "年月",
-        "title_col": "イベント名",
-        "detaillink_col": "発表タイトル",
         "content": [
           ["2022/04", "教育総合. オンライン展示会 vol.3", "N高等学校・S高等学校で4000名以上の生徒に行われたVR教育の実践", "https://online-event.dmm.com/main/page/education2204/venue/schedule_detail.php?uid=624a8fc0940c5"],
           ["2014/10", "Akamai Digital Media Conference 2014", "2013年末カウントダウン番組におけるAkamai活用事例", "https://www.slideshare.net/sifue/2013akamai"],
@@ -37,9 +31,6 @@
       },
       {
         "title": "インタビュー",
-        "time_col": "年月",
-        "title_col": "媒体名",
-        "detaillink_col": "タイトル",
         "content": [
           ["2021/05", "NIKKEI STYLE - 出世ナビ リーダーの母校", "吉村総一郎・S高等学校校長（上）- 成績はガタガタ、ITには覚醒　S高校長の広大付属時代", "https://style.nikkei.com/article/DGXMZO70485240Q1A330C2000000/"],
           ["2020/12", "EdTechZine", "「【エンジニアの校長、S高等学校の吉村総一郎氏が目指すものとは？「ソフトウェアで人を幸せに」のその先へ！", "https://edtechzine.jp/article/detail/4778"],
@@ -51,9 +42,6 @@
       },
       {
         "title": "趣味開発プロダクト",
-        "time_col": "年月",
-        "title_col": "利用技術",
-        "detaillink_col": "プロダクト名",
         "content": [
           ["2019/06", "Blender", "3Dモデリング作品 - Sifue Frog", "https://sketchfab.com/3d-models/sifue-frog-307290a42de64b859b77756313b73e70"],
           ["2019/05", "JavaScript/Firebase", "Googleアカウントを使ってTwitterアカウントがN/S高生であることを証明するサービス - N/S高生証明bot", "https://n-high-auth.firebaseapp.com/"],
@@ -96,37 +84,65 @@
         ]
       },
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "生命理工学研究科 生体分子機能工学専攻",
+        "title": "東京工業大学大学院",
+        "years": "2005年4月1日 ～ 2007年3月31日",
         "mainTech": [
-          "Angular 8/9/10"
+          "細胞生物学の研究のための顕微鏡技術に打ち込む研究生活"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "細胞生物学",
+          "物理化学",
+          "有機化学",
+          "分子生物学",
+          "原子間力顕微鏡",
+          "蛍光顕微鏡",
+          "Java"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "ソフトウェアエンジニア",
+        "title": "株式会社インクス",
+        "years": "2007年4月1日 ～ 2012年3月31日",
         "mainTech": [
-          "Angular 7/8"
+          "製造業向けの設計支援システムの開発"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "Java",
+          "Oracle",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "ソフトウェアエンジニア",
+        "title": "株式会社ドワンゴ",
+        "years": "2012年4月1日 ～ 2020年6月30日",
+        "mainTech": [
+          "ニコニコ生放送の開発リーダー"
+        ],
+        "technologies": [
+          "Scala",
+          "JavaSciprt",
+          "TypeScript",
+          "Java",
+          "Ruby",
           "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MySQL",
+          "Redis"
+        ]
+      },
+      {
+        "company": "教育従事プログラマー",
+        "title": "学校法人角川ドワンゴ学園",
+        "years": "2020年7月1日 ～",
+        "mainTech": [
+          "2021年4月よりS高等学校校長"
+        ],
+        "technologies": [
+          "JavaSciprt",
+          "Scala",
+          "TypeScript",
+          "PostgreSQL"
         ]
       }
     ]

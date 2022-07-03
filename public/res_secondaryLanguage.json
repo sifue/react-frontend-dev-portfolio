@@ -1,116 +1,149 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "He is the principal of S High School and a programmer engaged in education as a programming instructor at N High School and S High School.",
+    "description": "Soichiro Yoshimura was born in 1982 in Kure City, Hiroshima Prefecture. His handle is \"sifue\". He has been a development leader at a SIer and a development leader of Nico Nico Live Broadcasting, but he ended up teaching programming at a high school. His specialties are server-side and client-side concurrency implementation, RDB data modeling and its operation, and application development using TypeScript/JavaScript/Java. What I want to do is to make software that many people can enjoy. How to make development fun is an important value for me. I enjoy competitive online games (eSports) and play LoL, EchoVR, Valorant, Claroix, etc. on a daily basis.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Books",
+      "content": [
+        ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.kadokawa.co.jp/product/322101000833/"],
+        ["2018/06", "KADOKAWA", "「Webプログラミングが面白いほどわかる本」 環境構築からWebサービスの作成まで、はじめからていねいに", "https://www.kadokawa.co.jp/product/321712000860/"],
+        ["2017/04", "KADOKAWA", "「高校生からはじめる プログラミング」", "https://www.kadokawa.co.jp/product/321612000421/"],
+        ["2015/09", "Lightbend", "How Dwango Scaled Live Streaming With Play And Akka", "https://www.lightbend.com/case-studies/how-dwango-scaled-live-streaming-with-play-and-akka"],
+        ["2014/08", "技術評論社", "WEB+DB PRESS Vol.82「オブジェクト指向アプローチに依る変更に強いテーブル設計」", "https://gihyo.jp/magazine/wdpress/archive/2014/vol82"],
+        ["2014/08", "技術評論社", "WEB+DB PRESS Vol.81「オブジェクト指向プログラミングを利用したDAO設計パターン」", "https://gihyo.jp/magazine/wdpress/archive/2014/vol81"]
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Speeches",
+      "content": [
+        ["2022/04", "教育総合. オンライン展示会 vol.3", "N高等学校・S高等学校で4000名以上の生徒に行われたVR教育の実践", "https://online-event.dmm.com/main/page/education2204/venue/schedule_detail.php?uid=624a8fc0940c5"],
+        ["2014/10", "Akamai Digital Media Conference 2014", "2013年末カウントダウン番組におけるAkamai活用事例", "https://www.slideshare.net/sifue/2013akamai"],
+        ["2014/02", "Developers Summit 2014", "Play2/Scalaでドメイン駆動設計を利用した大規模Webアプリケーションのスクラム開発の勘所", "https://www.slideshare.net/sifue/developers-summit-2014-play2scalaweb"]
+      ]
+    },
+    {
+      "title": "Interviews",
+      "content": [
+        ["2021/05", "NIKKEI STYLE - 出世ナビ リーダーの母校", "吉村総一郎・S高等学校校長（上）- 成績はガタガタ、ITには覚醒　S高校長の広大付属時代", "https://style.nikkei.com/article/DGXMZO70485240Q1A330C2000000/"],
+        ["2020/12", "EdTechZine", "「【エンジニアの校長、S高等学校の吉村総一郎氏が目指すものとは？「ソフトウェアで人を幸せに」のその先へ！", "https://edtechzine.jp/article/detail/4778"],
+        ["2020/10", "JOB PICKS", "【エンジニア】急拡大するN高が、新校で「技術者の校長」を抜擢した理由", "https://job.newspicks.com/articles/8"],
+        ["2020/03", "SCIENCE SHIFT", "2016年の開校から4年、日本最大規模の高校となった「N高等学校」 1万2000人を超える高校生たちが体験している「未来の学びの形」とは？", "https://scienceshift.jp/mirai-nhighschool-interview-01/"],
+        ["2018/03", "エンジニアHub", "N予備校・吉村総一郎が教える！あなたをプロのエンジニアに成長させる、3つの心がけ", "https://employment.en-japan.com/engineerhub/entry/2018/03/14/110000"],
+        ["2017/07", "経済産業省のキャリア教育事業「わくわくキャッチ！」", "『体験させること』こそプログラミング教育の基本", "https://www.soichiro.org/#:~:text=%E3%80%8E%E4%BD%93%E9%A8%93%E3%81%95%E3%81%9B%E3%82%8B%E3%81%93%E3%81%A8%E3%80%8F%E3%81%93%E3%81%9D%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E8%82%B2%E3%81%AE%E5%9F%BA%E6%9C%AC"]
+      ]
+    },
+    {
+      "title": "Hobby Development Products",
+      "content": [
+        ["2019/06", "Blender", "3Dモデリング作品 - Sifue Frog", "https://sketchfab.com/3d-models/sifue-frog-307290a42de64b859b77756313b73e70"],
+        ["2019/05", "JavaScript/Firebase", "Googleアカウントを使ってTwitterアカウントがN/S高生であることを証明するサービス - N/S高生証明bot", "https://n-high-auth.firebaseapp.com/"],
+        ["2017/07", "JavaScript/PostgreSQL", "GitHub認証をするはてな匿名ダイアリークローン - 匿名ダイアリー", "https://github.com/sifue/tokumei-diary"],
+        ["2017/04", "Scala/Akka Actor", "Slack上にTwitterのエゴサーチの結果を表示するボット - twisearch_slackbot", "https://github.com/sifue/twisearch_slackbot"],
+        ["2014/04", "Scala/Akka Actor", "SlackとIRCのリレーサーバー - ircslackrelay", "https://github.com/sifue/ircslackrelay"],
+        ["2010/04", "Java/Google App Engine", "Twitterボット作成サービス - キャラボット", "https://ja.osdn.net/projects/charactorbot/wiki/FrontPage"]
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "infantry",
+      "title": "Hiroshima University High School",
+      "years": "April 1, 1998 - March 31, 2001",
+      "mainTech": [
+        "High school life, a four-hour round trip to and from school."
+      ],
+      "technologies": [
+        "Sports Festival Mass Game",
+        "badminton club"
+      ]
+    },
+    {
+      "company": "Department of Life Science and Technology, Department of Life Engineering",
+      "title": "Tokyo Institute of Technology",
+      "years": "April 1, 2001 - March 31, 2005",
+      "mainTech": [
+        "University life devoted to clubs, student organizations, and part-time jobs"
+      ],
+      "technologies": [
+        "Cole Kleines",
+        "Student Organization BLS",
+        "Student Organization GENET",
+        "Part-time job at a Chinese restaurant",
+        "Part-time job at a private tutoring school",
+        "Part-time job at a cram school",
+        "McDonald's part time job",
+        "Venture Part-time job"
+      ]
+    },
+    {
+      "company": "Graduate School of Life Science and Technology, Department of Biomolecular Functional Engineering",
+      "title": "Tokyo Institute of Technology",
+      "years": "April 1, 2005 - March 31, 2007",
+      "mainTech": [
+        "Research life devoted to microscopy techniques for the study of cell biology"
+      ],
+      "technologies": [
+        "Cell Biology",
+        "Physical chemistry",
+        "Organic chemistry",
+        "Molecular biology",
+        "Atomic force microscope",
+        "Fluorescence microscope",
+        "Java"
+      ]
+    },
+    {
+      "company": "Software engineer",
+      "title": "INCS Co., Ltd.",
+      "years": "April 1, 2007 - March 31, 2012",
+      "mainTech": [
+        "Development of design support system for manufacturing industry"
+      ],
+      "technologies": [
+        "Java",
+        "Oracle",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Software engineer",
+      "title": "DWANGO Co., Ltd.",
+      "years": "April 1, 2012 - June 30, 2020",
+      "mainTech": [
+        "Development Leader of Nico Nico Live Broadcast"
+      ],
+      "technologies": [
+        "Scala",
+        "JavaSciprt",
+        "TypeScript",
+        "Java",
+        "Ruby",
+        "PHP",
+        "MySQL",
+        "Redis"
+      ]
+    },
+    {
+      "company": "Educational Programmer",
+      "title": "KADOKAWA DWANGO educational institute",
+      "years": "July 1, 2020 ~",
+      "mainTech": [
+        "Principal of S High School from April 2021"
+      ],
+      "technologies": [
+        "JavaSciprt",
+        "Scala",
+        "TypeScript",
+        "PostgreSQL"
+      ]
+    }
+  ]
+}
