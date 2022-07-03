@@ -16,12 +16,12 @@
         "title_col": "出版元",
         "detaillink_col": "タイトル",
         "content": [
-          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046052228/"],
-          ["2018/06", "KADOKAWA", "「Webプログラミングが面白いほどわかる本」 環境構築からWebサービスの作成まで、はじめからていねいに", "https://www.amazon.co.jp/dp/4046023023/"],
-          ["2017/04", "KADOKAWA", "「高校生からはじめる プログラミング」", "https://www.amazon.co.jp/dp/4046019557/"],
+          ["2021/07", "KADOKAWA", "「改訂版 高校生からはじめる プログラミング」", "https://www.kadokawa.co.jp/product/322101000833/"],
+          ["2018/06", "KADOKAWA", "「Webプログラミングが面白いほどわかる本」 環境構築からWebサービスの作成まで、はじめからていねいに", "https://www.kadokawa.co.jp/product/321712000860/"],
+          ["2017/04", "KADOKAWA", "「高校生からはじめる プログラミング」", "https://www.kadokawa.co.jp/product/321612000421/"],
           ["2015/09", "Lightbend", "How Dwango Scaled Live Streaming With Play And Akka", "https://www.lightbend.com/case-studies/how-dwango-scaled-live-streaming-with-play-and-akka"],
-          ["2014/08", "技術評論社", "WEB+DB PRESS Vol.82「オブジェクト指向アプローチに依る変更に強いテーブル設計」", "https://www.amazon.co.jp/dp/4774166278/"],
-          ["2014/08", "技術評論社", "WEB+DB PRESS Vol.81「オブジェクト指向プログラミングを利用したDAO設計パターン」", "https://www.amazon.co.jp/dp/4774165069/"]
+          ["2014/08", "技術評論社", "WEB+DB PRESS Vol.82「オブジェクト指向アプローチに依る変更に強いテーブル設計」", "https://gihyo.jp/magazine/wdpress/archive/2014/vol82"],
+          ["2014/08", "技術評論社", "WEB+DB PRESS Vol.81「オブジェクト指向プログラミングを利用したDAO設計パターン」", "https://gihyo.jp/magazine/wdpress/archive/2014/vol81"]
         ]
       },
       {

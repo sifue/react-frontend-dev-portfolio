@@ -64,6 +64,7 @@ header {
 	color: white;
 }
 
+
 .skills-tile {
 	background-color: transparentize(#F8F5F4, 0.95);
 	padding: 10px 10px 5px 10px;
@@ -330,7 +331,7 @@ header h1 {
 
 .portfolio-item {
 	max-width: 100%;
-	margin-bottom: 15px;
+	margin-bottom: 5px;
 	text-align: center;
 }
 
@@ -368,9 +369,9 @@ header h1 {
 }
 
 .section-title {
-	padding-top: 5%;
-	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	font: 18spx/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
@@ -378,36 +379,22 @@ header h1 {
 }
 
 .projects-title {
-	padding-top: 2.5%;
-	padding-bottom: 0.5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
-	text-transform: uppercase;
+	padding-top: 4%;
+	padding-bottom: 0%;
+	font: 10px/16px 'opensans-bold', sans-serif;
+	text-transform: none;
 	letter-spacing: 3px;
-	color: #fff;
 	text-align: center;
 }
 
-.projects-table {
-	margin-top: 1%;
-	margin-left: 5%;
-	margin-right: 5%;
-	margin-bottom: 4%;
+.project-title-settings {
+	margin-top: 5%;
 	font: 12px/18px 'opensans-bold', sans-serif;
 	text-transform: none;
 	letter-spacing: 3px;
-	text-align: left;
-}
-
-.projects-table-header {
-	line-height: 4em;
+	color: black;
 	text-align: center;
 }
-
-.projects-table-cell {
-	margin-right: 1%;
-	padding: 0.30em 1em;
-}
-
 
 .skill-icon {
 	font-size: 180%;
