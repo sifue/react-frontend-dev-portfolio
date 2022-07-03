@@ -395,12 +395,25 @@ header h1 {
 }
 
 .projects-table {
-	padding-bottom: 10%;
+	margin-top: 2%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
 	font: 12px/18px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
+	text-align: left;
+}
+
+.projects-table-header {
 	text-align: center;
 }
+
+.projects-table-cell {
+	margin-right: 1%;
+	padding: 0.30em 1em;
+}
+
 
 .skill-icon {
 	font-size: 180%;

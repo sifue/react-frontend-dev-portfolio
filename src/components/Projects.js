@@ -28,7 +28,7 @@ class Projects extends Component {
                   </h1>
                   <table className="projects-table">
                     <thead>
-                      <tr>
+                      <tr className="projects-table-header">
                         <th><span>{projects.time_col}</span></th>
                         <th><span>{projects.title_col}</span></th>
                         <th><span>{projects.detaillink_col}</span></th>
@@ -37,9 +37,9 @@ class Projects extends Component {
                     <tbody>
                       {projects.content.map((content) => {
                       return <tr key={content[3]}>
-                        <td>{content[0]}</td>
-                        <td>{content[1]}</td>
-                        <td><a href={content[3]}>{content[2]}</a></td></tr>;})}
+                        <td className="projects-table-cell">{content[0]}</td>
+                        <td className="projects-table-cell">{content[1]}</td>
+                        <td className="projects-table-cell"><a href={content[3]}>{content[2]}</a></td></tr>;})}
                     </tbody>
                   </table>
                 </div>
