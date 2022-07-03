@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "He is the principal of S High School and a programmer engaged in education as a programming instructor at N High School and S High School.",
-    "description": "Soichiro Yoshimura was born in 1982 in Kure City, Hiroshima Prefecture. His handle is \"sifue\". He has been a development leader at a SIer and a development leader of Nico Nico Live Broadcasting, but he ended up teaching programming at a high school. His specialties are server-side and client-side concurrency implementation, RDB data modeling and its operation, and application development using TypeScript/JavaScript/Java. What I want to do is to make software that many people can enjoy. How to make development fun is an important value for me. I enjoy competitive online games (eSports) and play LoL, EchoVR, Valorant, Claroix, etc. on a daily basis.",
+    "description_header": "I am the principal of S High School and a programmer engaged in education as a programming instructor at N High School and S High School.",
+    "description": "I'm Soichiro Yoshimura, was born in 1982 in Kure City, Hiroshima Prefecture. His handle is \"sifue\". He has been a development leader at a SIer and a development leader of Nico Nico Live Broadcasting, but he ended up teaching programming at a high school. His specialties are server-side and client-side concurrency implementation, RDB data modeling and its operation, and application development using TypeScript/JavaScript/Java. What I want to do is to make software that many people can enjoy. How to make development fun is an important value for me. I enjoy competitive online games (eSports) and play LoL, EchoVR, Valorant, Claroix, etc. on a daily basis.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
