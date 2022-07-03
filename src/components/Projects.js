@@ -39,7 +39,7 @@ class Projects extends Component {
                       return <tr key={content[3]}>
                         <td className="projects-table-cell">{content[0]}</td>
                         <td className="projects-table-cell">{content[1]}</td>
-                        <td className="projects-table-cell"><a href={content[3]}>{content[2]}</a></td></tr>;})}
+                        <td className="projects-table-cell"><a href={content[3]} target="_blank">{content[2]}</a></td></tr>;})}
                     </tbody>
                   </table>
                 </div>
