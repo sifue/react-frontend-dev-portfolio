@@ -17,16 +17,31 @@ class Projects extends Component {
     let detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.projects;
-      console.log(this.props.resumeProjects);
       var projects = this.props.resumeProjects.map(function (projects) {
         return (
-          <div
-            className="col-sm-12 col-md-12 col-lg-12"
-          >
+          <div className="col-sm-12 col-md-12 col-lg-12" key={projects.title}>
             <span className="portfolio-item d-block">
               <div className="foto">
                 <div>
-                  {'test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test '}
+                  <h1 className="projects-title" style={{ color: "black" }}>
+                    <span>{projects.title}</span>
+                  </h1>
+                  <table className="projects-table">
+                    <thead>
+                      <tr>
+                        <th><span>{projects.time_col}</span></th>
+                        <th><span>{projects.title_col}</span></th>
+                        <th><span>{projects.detaillink_col}</span></th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {projects.content.map((content) => {
+                      return <tr key={content[3]}>
+                        <td>{content[0]}</td>
+                        <td>{content[1]}</td>
+                        <td><a href={content[3]}>{content[2]}</a></td></tr>;})}
+                    </tbody>
+                  </table>
                 </div>
               </div>
             </span>
