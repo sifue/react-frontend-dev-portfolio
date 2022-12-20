@@ -19,6 +19,16 @@
           "class": "fab fa-facebook"
         },
         {
+          "name": "note",
+          "url": "https://note.com/sifue",
+          "class": "far fa-sticky-note"
+        },
+        {
+          "name": "qiita",
+          "url": "https://qiita.com/sifue",
+          "class": "fab fa-quora"
+        },
+        {
           "name": "youtube",
           "url": "https://www.youtube.com/user/sifue",
           "class": "fab fa-youtube"
