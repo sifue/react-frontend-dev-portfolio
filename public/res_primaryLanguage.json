@@ -44,6 +44,7 @@
       {
         "title": "趣味開発プロダクト",
         "content": [
+          ["2022/12", "Python", "AIチャットSlackボット - ChatGPT Slackbot (使っているのはGPT-3)", "https://github.com/sifue/chatgpt-slackbot"],
           ["2022/09", "Python", "AIアート生成Slackボット - Stable Diffusion Slack Bot", "https://github.com/sifue/stable-diffusion-bot"],
           ["2019/06", "Blender", "3Dモデリング作品 - Sifue Frog", "https://sketchfab.com/3d-models/sifue-frog-307290a42de64b859b77756313b73e70"],
           ["2019/05", "JavaScript/Firebase", "Googleアカウントを使ってTwitterアカウントがN/S高生であることを証明するサービス - N/S高生証明bot", "https://n-high-auth.firebaseapp.com/"],
