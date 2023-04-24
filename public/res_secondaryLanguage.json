@@ -44,6 +44,7 @@
     {
       "title": "Hobby Development Products",
       "content": [
+        ["2023/04", "TypeScript/Next.js", "AIプロットメーカー", "https://github.com/sifue/ai-plot-maker"],
         ["2022/12", "Python", "AIチャットSlackボット - ChatGPT Slackbot", "https://github.com/sifue/chatgpt-slackbot"],
         ["2022/09", "Python", "AIアート生成Slackボット - Stable Diffusion Slack Bot", "https://github.com/sifue/stable-diffusion-bot"],
         ["2019/06", "Blender", "3Dモデリング作品 - Sifue Frog", "https://sketchfab.com/3d-models/sifue-frog-307290a42de64b859b77756313b73e70"],
