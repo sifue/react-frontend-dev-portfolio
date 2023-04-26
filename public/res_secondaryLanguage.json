@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "I am a programmer engaged in education as a programming instructor at N High School and S High School.",
-    "description": "I was born in 1982 in Kure City, Hiroshima Prefecture. My handle is sifue. I have Applied Information Processing Engineer Certificate/VR Engineer Certificate (Theory)/G Certificate.I have worked as a development leader at an system integrator and as a development leader for Nico Nico Live Broadcasting, but a chance encounter led me to teach programming at a high school. My specialties are server-side and client-side concurrency implementation, RDB data modeling and operations, and application development using TypeScript/JavaScript/Java. What I want to do is to create software that many people will enjoy. Making development fun is an important value for me. I enjoy competitive online games (e-sports) and play LoL on a regular basis.",
+    "description": "I was born in 1982 in Kure City, Hiroshima Prefecture. My handle is sifue. I have Applied Information Engineer Certificate/VR Engineer Certificate (Theory)/JDLA Deep Learning for GENERAL.I have worked as a development leader at an system integrator and as a development leader for Nico Nico Live Broadcasting, but a chance encounter led me to teach programming at a high school. My specialties are server-side and client-side concurrency implementation, RDB data modeling and operations, and application development using TypeScript/JavaScript/Java. What I want to do is to create software that many people will enjoy. Making development fun is an important value for me. I enjoy competitive online games (e-sports) and play LoL on a regular basis.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -44,7 +44,7 @@
     {
       "title": "Hobby Development Products",
       "content": [
-        ["2023/04", "TypeScript/Next.js", "AIプロットメーカー", "https://github.com/sifue/ai-plot-maker"],
+        ["2023/04", "TypeScript/Next.js", "AIプロットメーカー - ChatGPT Plot Maker", "https://github.com/sifue/ai-plot-maker"],
         ["2022/12", "Python", "AIチャットSlackボット - ChatGPT Slackbot", "https://github.com/sifue/chatgpt-slackbot"],
         ["2022/09", "Python", "AIアート生成Slackボット - Stable Diffusion Slack Bot", "https://github.com/sifue/stable-diffusion-bot"],
         ["2019/06", "Blender", "3Dモデリング作品 - Sifue Frog", "https://sketchfab.com/3d-models/sifue-frog-307290a42de64b859b77756313b73e70"],
