@@ -52,7 +52,7 @@
           ["2017/07", "JavaScript/PostgreSQL", "GitHub認証をするはてな匿名ダイアリークローン - 匿名ダイアリー", "https://github.com/sifue/tokumei-diary"],
           ["2017/04", "Scala/Akka Actor", "Slack上にTwitterのエゴサーチの結果を表示するボット - twisearch_slackbot", "https://github.com/sifue/twisearch_slackbot"],
           ["2014/04", "Scala/Akka Actor", "SlackとIRCのリレーサーバー - ircslackrelay", "https://github.com/sifue/ircslackrelay"],
-          ["2010/04", "Java/Google App Engine", "Twitterボット作成サービス - キャラボット", "https://ja.osdn.net/projects/charactorbot/wiki/FrontPage"]
+          ["2010/04", "Java/Google App Engine", "Twitterボット作成サービス - キャラボット", "https://github.com/sifue/charactorbot"]
         ]
       }
     ],
