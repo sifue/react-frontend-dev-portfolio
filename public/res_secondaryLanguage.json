@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "I am a programmer engaged in education as a programming instructor at N High School and S High School.",
-    "description": "I was born in 1982 in Kure City, Hiroshima Prefecture. My handle is sifue. I have Applied Information Engineer Certificate/VR Engineer Certificate (Theory)/JDLA Deep Learning for GENERAL. I have worked as a development leader at an system integrator and as a development leader for Nico Nico Live Broadcasting, but a chance encounter led me to teach programming at a high school. My specialties are server-side and client-side concurrency implementation, RDB data modeling and operations, and application development using TypeScript/JavaScript/Java/Scala. What I want to do is to create software that many people will enjoy. Making development fun is an important value for me. I enjoy online gaming and plays LoL, VR games and FF14 on a daily basis.",
+    "description": "I was born in 1982 in Kure City, Hiroshima Prefecture. My handle is sifue. I passed the Applied Information Technology Engineer Examination/VR Engineer Certificate (Theory)/JDLA Deep Learning For GENERAL. I have worked as a development leader at an system integrator and as a development leader for Nico Nico Live Broadcasting, but a chance encounter led me to teach programming at a high school. My specialties are server-side and client-side concurrency implementation, RDB data modeling and operations, and application development using TypeScript/JavaScript/Java/Scala. What I want to do is to create software that many people will enjoy. Making development fun is an important value for me. I enjoy online gaming and plays LoL, VR games and FF14 on a daily basis.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -52,7 +52,7 @@
         ["2017/07", "JavaScript/PostgreSQL", "GitHub認証をするはてな匿名ダイアリークローン - 匿名ダイアリー", "https://github.com/sifue/tokumei-diary"],
         ["2017/04", "Scala/Akka Actor", "Slack上にTwitterのエゴサーチの結果を表示するボット - twisearch_slackbot", "https://github.com/sifue/twisearch_slackbot"],
         ["2014/04", "Scala/Akka Actor", "SlackとIRCのリレーサーバー - ircslackrelay", "https://github.com/sifue/ircslackrelay"],
-        ["2010/04", "Java/Google App Engine", "Twitterボット作成サービス - キャラボット", "https://ja.osdn.net/projects/charactorbot/wiki/FrontPage"]
+        ["2010/04", "Java/Google App Engine", "Twitterボット作成サービス - キャラボット", "https://github.com/sifue/charactorbot"]
       ]
     }
   ],
@@ -126,7 +126,7 @@
       ],
       "technologies": [
         "Scala",
-        "JavaSciprt",
+        "JavaScript",
         "TypeScript",
         "Java",
         "Ruby",
@@ -144,7 +144,7 @@
         "April 2021 - March 2023 President of S High School"
       ],
       "technologies": [
-        "JavaSciprt",
+        "JavaScript",
         "Scala",
         "TypeScript",
         "PostgreSQL"
