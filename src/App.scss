@@ -1,12 +1,14 @@
 @import '../src/scss/themes/theme-dark.scss';
 @import '../src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap');
 
 html {
-	font-size: 62.5%;
+	font-size: 75%;  /* 62.5% から 75% に増加（約120%） */
 	-webkit-font-smoothing: antialiased;
 	margin: 0;
 	padding: 0;
+	font-family: 'Noto Sans JP', sans-serif;
 }
 
 .aligner {
@@ -85,7 +87,7 @@ header h1 {
 	text-align: center;
 	font-weight: 600 !important;
 	color: #353239;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-family: 'Noto Sans JP', sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
@@ -213,25 +215,25 @@ header h1 {
 }
 
 .main-badge {
-	font-size: 13px !important;
+	font-size: 16px !important;
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #AE944F !important;
 	color: white;
 	font-weight: lighter !important;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: 'Noto Sans JP', sans-serif;
 }
 
 .experience-badge {
-	font-size: 11px !important;
+	font-size: 13px !important;
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #f9f5e9 !important;
 	color: black;
 	font-weight: lighter !important;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: 'Noto Sans JP', sans-serif;
 }
 
 .vertical-timeline-element-date {
@@ -371,7 +373,7 @@ header h1 {
 .section-title {
 	padding-top: 4%;
 	padding-bottom: 4%;
-	font: 18spx/24px 'opensans-bold', sans-serif;
+	font: 18px/24px 'Noto Sans JP', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
@@ -381,7 +383,7 @@ header h1 {
 .projects-title {
 	padding-top: 4%;
 	padding-bottom: 0%;
-	font: 10px/16px 'opensans-bold', sans-serif;
+	font: 10px/16px 'Noto Sans JP', sans-serif;
 	text-transform: none;
 	letter-spacing: 3px;
 	text-align: center;
@@ -389,7 +391,7 @@ header h1 {
 
 .project-title-settings {
 	margin-top: 5%;
-	font: 12px/18px 'opensans-bold', sans-serif;
+	font: 12px/18px 'Noto Sans JP', sans-serif;
 	text-transform: none;
 	letter-spacing: 3px;
 	color: black;

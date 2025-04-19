@@ -5,4 +5,11 @@ body[data-theme="light"] {
     .slider-tab {
        background-color: #D7CAAA;
     }
+
+    #resume {
+        .experience-badge {
+            background-color: #C9B77F !important;
+            color: white !important;
+        }
+    }
 }
