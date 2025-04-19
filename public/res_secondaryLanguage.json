@@ -150,6 +150,20 @@
         "TypeScript",
         "PostgreSQL"
       ]
+    },
+    {
+      "company": "Educational Programmer",
+      "title": "Educational Institute of The Nippon Foundation and DWANGO",
+      "years": "April 1, 2025 ~",
+      "mainTech": [
+        "April 1, 2025 - Zen University faculty member"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Scala",
+        "TypeScript",
+        "PostgreSQL"
+      ]
     }
   ]
 }

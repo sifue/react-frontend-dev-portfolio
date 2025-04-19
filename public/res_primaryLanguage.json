@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "description_header": "N高等学校・S高等学校でプログラミング講師を務める教育従事プログラマー。",
+      "description_header": "ZEN大学などでプログラミング講師を務める教育従事プログラマー。",
       "description": "吉村総一郎、1982年広島県呉市生まれ。ハンドルネームはsifue(しふー)。応用情報技術者試験 / VR技術者試験(セオリー) / G検定 / Generative AI TESTに合格、AtCoder最高緑。SIerで開発リーダーを行ったり、ニコニコ生放送の開発リーダーを行ってきたが、ふとしたきっかけで高校でプログラミングを教えることになる。得意なことは、サーバーサイドやクライアントサイドにおける並行処理実装、RDBのデータモデリングとその運用、TypeScript / JavaScrip / Java / Scalaを用いたアプリケーション開発。やりたいことは、多くの人に喜ばれるソフトウェア作り。いかに楽しく開発するか、ということを自分の大切な価値にしている。ネットゲームが趣味で、LoLとVRゲームとFF14を日ごろからプレイしている。",
       "section_name": {
         "about": "About me",
@@ -143,6 +143,20 @@
         "mainTech": [
           "2020年4月～2021年3月 N高等学校 副校長",
           "2021年4月～2023年3月 S高等学校 校長"
+        ],
+        "technologies": [
+          "JavaScript",
+          "Scala",
+          "TypeScript",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "company": "教育従事プログラマー",
+        "title": "学校法人日本財団ドワンゴ学園",
+        "years": "2025年4月1日 ～",
+        "mainTech": [
+          "2025年4月1日 ～ ZEN大学教員"
         ],
         "technologies": [
           "JavaScript",
