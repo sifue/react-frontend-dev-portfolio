@@ -44,6 +44,7 @@
       {
         "title": "趣味開発プロダクト",
         "content": [
+          ["2025/04", "TypeScript/Next.js/Supabase", "ZEN大授業評価レビューサイト ZEON (非公式)", "https://github.com/sifue/zeon/"],
           ["2023/04", "TypeScript/Next.js", "AIプロットメーカー - ChatGPT Plot Maker", "https://github.com/sifue/ai-plot-maker"],
           ["2022/12", "Python", "AIチャットSlackボット - ChatGPT Slackbot", "https://github.com/sifue/chatgpt-slackbot"],
           ["2022/09", "Python", "AIアート生成Slackボット - Stable Diffusion Slack Bot", "https://github.com/sifue/stable-diffusion-bot"],
