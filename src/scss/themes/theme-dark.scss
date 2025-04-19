@@ -1,6 +1,7 @@
+@use "sass:meta";
 body[data-theme="dark"] {  
 
-   @import '../src/scss/dark-slider.scss';
+   @include meta.load-css('../dark-slider');
 
    .slider-tab {
       background-color: #8C8C8C;
