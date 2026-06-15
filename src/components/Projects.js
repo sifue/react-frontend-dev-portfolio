@@ -1,27 +1,11 @@
 import React, { Component } from "react";
 
 class Projects extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      deps: {},
-      detailsModalShow: false,
-    };
-  }
-
   render() {
-    let detailsModalShow = (data) => {
-      this.setState({ detailsModalShow: true, deps: data });
-    };
-
-    let detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
-      var sectionName = this.props.resumeBasicInfo.section_name.projects;
-
-
       var projects = this.props.resumeProjects.map(function (projects) {
-        return ( <div className="col-md-12">
-          <h1 className="section-title" style={{ color: "black" }} key={projects.title}>
+        return ( <div className="col-md-12" key={projects.title}>
+          <h1 className="section-title" style={{ color: "black" }}>
             <span>{projects.title}</span>
           </h1>
           <div className="row">
@@ -37,7 +21,7 @@ class Projects extends Component {
                             <br />
                             <p className="projects-title">{content[1]}</p>
                             <p className="project-title-settings mt-3">
-                              <a href={content[3]} target="_blank">{content[2]}</a>
+                              <a href={content[3]} target="_blank" rel="noreferrer">{content[2]}</a>
                             </p>
                           </div>
                         </div>
